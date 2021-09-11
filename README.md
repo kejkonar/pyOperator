@@ -1,0 +1,2 @@
+# pyOperator
+vjezvba za aplikaciju
